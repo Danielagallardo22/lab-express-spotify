@@ -1,0 +1,46 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(248, 62, 62);
+    border: none;
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    font-size: 18px;
+    width: 100px;
+    border-radius: 5px;
+    margin-left: 30%;
+
+
+}
+
+.artist {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: grey;
+    color: white;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+
+
+}
+
+.album {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: grey;
+    color: white;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+
+}
